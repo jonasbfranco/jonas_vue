@@ -36,6 +36,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - vue -V
 - vue create nome_do_seu_app
 - yarn serve
+- npm install vue-router --save
 
 ## windows
 
