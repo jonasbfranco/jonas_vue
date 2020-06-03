@@ -31,11 +31,15 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Comandos no Linux
 
 - sudo yarn global add @vue/cli
-- sudonpm install -g vue-cli
+- sudo npm install -g vue-cli
 - vue --version
 - vue -V
 - vue create nome_do_seu_app
 - yarn serve
+
+## windows
+
+- npm install -g vue-cli
 
 # …or create a new repository on the command line
 
